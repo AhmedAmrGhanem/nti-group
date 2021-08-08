@@ -5,5 +5,6 @@ int main()
 {
 //int y = x;
     printf("%d",20);
+printf("%d",Hey);
     return 0;
 }
